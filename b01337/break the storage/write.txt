@@ -1,0 +1,1 @@
+theres js function name validate() which will give data file n then login and found profile.js
